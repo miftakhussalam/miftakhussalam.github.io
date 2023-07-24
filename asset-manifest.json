@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/miftakhussalam/static/css/main.60b56202.css",
-    "main.js": "/miftakhussalam/static/js/main.a1ed23ed.js",
+    "main.js": "/miftakhussalam/static/js/main.5c9faa78.js",
     "static/js/787.fa43068c.chunk.js": "/miftakhussalam/static/js/787.fa43068c.chunk.js",
     "index.html": "/miftakhussalam/index.html",
     "main.60b56202.css.map": "/miftakhussalam/static/css/main.60b56202.css.map",
-    "main.a1ed23ed.js.map": "/miftakhussalam/static/js/main.a1ed23ed.js.map",
+    "main.5c9faa78.js.map": "/miftakhussalam/static/js/main.5c9faa78.js.map",
     "787.fa43068c.chunk.js.map": "/miftakhussalam/static/js/787.fa43068c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60b56202.css",
-    "static/js/main.a1ed23ed.js"
+    "static/js/main.5c9faa78.js"
   ]
 }
