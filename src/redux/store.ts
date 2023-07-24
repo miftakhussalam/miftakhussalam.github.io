@@ -1,15 +1,9 @@
 import { configureStore } from "@reduxjs/toolkit";
 import { useDispatch } from "react-redux";
-// import individuSlice from './individu/individuSlice';
-// import contractSlice from './contract/contractSlice';
-import reportSlice from "./report/reportSlice";
 import userSlice from "./user/userSlice";
 
 export const store = configureStore({
   reducer: {
-    // individu: individuSlice,
-    // contract: contractSlice,
-    report: reportSlice,
     user: userSlice
   },
 });
