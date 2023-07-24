@@ -2,7 +2,7 @@
   "name": "portofolio-miftakhussalam",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://miftakhussalam.github.io/miftakhussalam.github.io ",
+  "homepage": "https://miftakhussalam.github.io/miftakhussalam ",
   "proxy": "http://localhost:3000",
   "dependencies": {
     "@emotion/react": "^11.10.6",
